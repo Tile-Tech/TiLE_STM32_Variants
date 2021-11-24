@@ -1,0 +1,4 @@
+commit fa6e5cba3548e0fd2f254ff503e610a7a3118cfe
+Author: Frederic Pillon <frederic.pillon@st.com>
+
+    chore: add link for Swan R5 board
