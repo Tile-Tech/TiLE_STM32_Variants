@@ -1,15 +1,16 @@
 {
-  "name": "framework-arduinoststm32",
+  "name": "framework-arduinoststm32-tile",
   "version": "4.20100.211028",
-  "description": "Arduino Wiring-based Framework for ST STM32 microcontrollers",
+  "description": "Arduino Wiring-based Framework for ST STM32 microcontrollers, Customized for Custom Boards",
   "keywords": [
     "framework",
     "arduino",
     "stmicroelectronics",
-    "stm32"
+    "stm32",
+	"tile"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/stm32duino/Arduino_Core_STM32"
+    "url": "https://github.com/Tile-Tech/TiLE_STM32_Variants"
   }
 }
